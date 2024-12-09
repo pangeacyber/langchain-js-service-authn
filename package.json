@@ -20,6 +20,9 @@
     "langchain": "0.3.6",
     "pangea-node-sdk": "4.1.0"
   },
+  "optionalDependencies": {
+    "@biomejs/cli-linux-x64": "1.9.4"
+  },
   "devDependencies": {
     "@biomejs/biome": "1.9.4",
     "@tsconfig/node22": "22.0.0",

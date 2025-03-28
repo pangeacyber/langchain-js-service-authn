@@ -14,7 +14,7 @@
     "@dotenvx/dotenvx": "1.39.0",
     "@googleapis/drive": "11.0.0",
     "@langchain/core": "0.3.43",
-    "@langchain/openai": "0.4.9",
+    "@langchain/openai": "0.5.0",
     "citty": "0.1.6",
     "consola": "3.4.2",
     "langchain": "0.3.19",

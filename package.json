@@ -18,7 +18,7 @@
     "citty": "0.1.6",
     "consola": "3.4.2",
     "langchain": "0.3.24",
-    "pangea-node-sdk": "4.4.0"
+    "pangea-node-sdk": "5.1.0"
   },
   "optionalDependencies": {
     "@biomejs/cli-linux-x64": "1.9.4"

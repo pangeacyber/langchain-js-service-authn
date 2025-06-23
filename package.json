@@ -14,7 +14,7 @@
     "@dotenvx/dotenvx": "1.44.2",
     "@googleapis/drive": "13.0.1",
     "@langchain/core": "0.3.60",
-    "@langchain/openai": "0.5.13",
+    "@langchain/openai": "0.5.14",
     "citty": "0.1.6",
     "consola": "3.4.2",
     "langchain": "0.3.29",
@@ -26,6 +26,7 @@
   "devDependencies": {
     "@biomejs/biome": "1.9.4",
     "@tsconfig/node22": "22.0.2",
+    "@types/node": "22.15.32",
     "tsx": "4.20.3",
     "typescript": "5.8.3",
     "ultracite": "4.2.13"

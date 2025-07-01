@@ -18,7 +18,6 @@ export interface GoogleDriveRetrieverArgs extends BaseRetrieverInput {
 
 export class GoogleDriveRetriever extends BaseRetriever {
   static lc_name() {
-    // biome-ignore lint/nursery/noSecrets: false positive
     return 'GoogleDriveRetriever';
   }
 

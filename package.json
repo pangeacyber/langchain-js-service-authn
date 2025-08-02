@@ -11,7 +11,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@dotenvx/dotenvx": "1.48.3",
+    "@dotenvx/dotenvx": "1.48.4",
     "@googleapis/drive": "14.2.0",
     "@langchain/core": "0.3.66",
     "@langchain/openai": "0.6.3",

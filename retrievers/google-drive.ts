@@ -23,9 +23,9 @@ export class GoogleDriveRetriever extends BaseRetriever {
 
   lc_namespace = ['pangeacyber', 'retrievers', 'google_drive_retriever'];
 
-  private folderId: string;
+  private readonly folderId: string;
 
-  private files: drive_v3.Resource$Files;
+  private readonly files: drive_v3.Resource$Files;
 
   constructor(args: GoogleDriveRetrieverArgs) {
     super(args);

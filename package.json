@@ -21,7 +21,7 @@
     "pangea-node-sdk": "5.6.0"
   },
   "optionalDependencies": {
-    "@biomejs/cli-linux-x64": "2.2.4"
+    "@biomejs/cli-linux-x64": "2.2.5"
   },
   "devDependencies": {
     "@biomejs/biome": "2.2.4",
